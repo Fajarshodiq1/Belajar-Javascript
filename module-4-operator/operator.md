@@ -94,7 +94,7 @@ Digunakan untuk menggabungkan ekspresi logika.
 | Operator | Deskripsi                | Contoh            | Hasil    |
 |----------|--------------------------|-------------------|----------|
 | `&&`     | AND (keduanya harus true)| `true && false`   | `false`  |
-| ```||```     | OR (salah satu true)     | `true || false`   | `true`   |
+| `or \|\|`| OR (salah satu true)     | `true || false`   | `true`   |
 | `!`      | NOT (kebalikan nilai)    | `!true`           | `false`  |
 
 ### Contoh Kode
